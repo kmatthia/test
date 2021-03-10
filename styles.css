@@ -1,0 +1,66 @@
+@charset "UTF-8";
+body {
+padding: 0;
+margin: 0; }
+img {position: absolute;}
+.FRANCIEWAVE {
+    position: absolute;
+left: 460px;
+top: 150px;
+width: 848px;
+height: 599px;
+z-index: 5;
+    
+}
+.whatuneedgreen {
+    position: absolute;
+left: 420px;
+top: 130px;
+width: 600px;
+height: 110px;
+z-index: 5;
+    
+}
+.askadvice {
+    position: absolute;
+left: 150px;
+top: 150px;
+width: 205px;
+height: 135px;
+z-index: 5;   
+}
+
+
+.comfort {
+    position: absolute;
+left: 240px;
+top: 300px;
+width: 225px;
+height: 155px;
+z-index: 5;
+    
+}
+.hang {
+    position: absolute;
+left: 150px;
+top: 450px;
+width: 215px;
+height: 135px;
+z-index: 5;
+    
+}
+.personal{
+  position: absolute;
+  left: 300px;
+  top: 500px;
+  width: 518px;
+  height: 191px;
+  z-index: 4;
+}
+
+
+
+
+
+
+
